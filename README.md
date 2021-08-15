@@ -29,8 +29,7 @@
            
  </div>
  
- <div>
-     ![](https://github.com/TONNYSAP/TONNYSAP/blob/main/pacman.gif)
+ <div>     
      <img href="https://github.com/TONNYSAP/TONNYSAP/blob/main/pacman.gif" >
  </div>
     
