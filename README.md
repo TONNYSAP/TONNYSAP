@@ -28,10 +28,6 @@
     <a href="https://www.messenger.com/t/sousaverassap" target="_blank"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" target="_blank"></a>
            
  </div>
-  
- <div>
-   <img align="center" alt="" src="https://i.gifer.com/T7n.gif">   
- </div>
     
 <!---
 TONNYSAP/TONNYSAP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
