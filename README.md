@@ -30,7 +30,7 @@
  </div>
  
  <div>
-  ![README-PacMan-gif]( https://github.com/TONNYSAP/REDME-PacMan-gif/blob/main/pacman.gif)
+  ![README-PacMan-gif](https://github.com/TONNYSAP/REDME-PacMan-gif/blob/main/pacman.gif?raw=true)
  </div>
   
   ![](https://i.gifer.com/T7n.gif)
