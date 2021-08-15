@@ -30,7 +30,7 @@
  </div>
   
  <div>
-   https://i.gifer.com/T7n.gif
+   <img align="center" alt="" src="https://i.gifer.com/T7n.gif">   
  </div>
     
 <!---
