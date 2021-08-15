@@ -30,7 +30,7 @@
  </div>
   
  <div>
-   ![gif-pacman]( https://i.gifer.com/T7n.gif")
+   https://i.gifer.com/T7n.gif
  </div>
     
 <!---
