@@ -29,8 +29,8 @@
            
  </div>
  
- <div style="padding-top:62.500%;position:relative;">
-     <iframe src="https://github.com/TONNYSAP/REDME-PacMan-gif/blob/main/pacman.gif" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe>
+ <div>
+     <iframe src="https://github.com/TONNYSAP/REDME-PacMan-gif/blob/main/pacman.gif" ></iframe>
  </div>
     
 <!---
