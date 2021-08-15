@@ -30,7 +30,7 @@
  </div>
  
  <div>
-     <iframe src="https://github.com/TONNYSAP/REDME-PacMan-gif/blob/main/pacman.gif" ></iframe>
+     <iframe src="https://github.com/TONNYSAP/TONNYSAP/blob/main/pacman.gif" ></iframe>
  </div>
     
 <!---
