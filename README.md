@@ -29,11 +29,9 @@
            
  </div>
  
- <div>
-  ![README-PacMan-gif](https://github.com/TONNYSAP/REDME-PacMan-gif/blob/main/pacman.gif?raw=true)
+ <div style="padding-top:62.500%;position:relative;">
+     <iframe src="https://github.com/TONNYSAP/REDME-PacMan-gif/blob/main/pacman.gif" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe>
  </div>
-  
-  ![](https://i.gifer.com/T7n.gif)
     
 <!---
 TONNYSAP/TONNYSAP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
