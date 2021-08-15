@@ -30,7 +30,7 @@
  </div>
   
  <div>
-   ![gif]( <img align="center" alt="TONNYSAP-gif"  src="https://i.gifer.com/T7n.gif">)
+   ![gif-pacman]( https://i.gifer.com/T7n.gif")
  </div>
     
 <!---
