@@ -30,7 +30,7 @@
  </div>
  
  <div>     
-     <img href="https://github.com/TONNYSAP/TONNYSAP/blob/main/pacman.gif" >
+     <img src="https://github.com/TONNYSAP/TONNYSAP/blob/main/pacman.gif" >
  </div>
     
 <!---
