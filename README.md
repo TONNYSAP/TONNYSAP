@@ -28,10 +28,11 @@
     <a href="https://www.messenger.com/t/sousaverassap" target="_blank"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" target="_blank"></a>
            
  </div>
+  
  <br>
-##
+  
  <div>     
-     <img src="https://github.com/TONNYSAP/TONNYSAP/blob/main/pacman.gif" >
+     <img align="center" src="https://github.com/TONNYSAP/TONNYSAP/blob/main/pacman.gif" >
  </div>
     
 <!---
