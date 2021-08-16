@@ -30,8 +30,8 @@
  </div>
   
 <hr>
-<br>
-  # PacMan - Classic Game
+
+  ### PacMan - Classic Game
  <div>     
      <img src="https://github.com/TONNYSAP/TONNYSAP/blob/main/pacman.gif" >
  </div>
