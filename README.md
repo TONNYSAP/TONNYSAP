@@ -14,6 +14,7 @@
   <img align="center" alt="TONNYSAP-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TONNYSAP-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="TONNYSAP-Angular" height="40" width="40" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+  <img align="center" alt="TONNYSAP-JAVA" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/>
   <img align="center" alt="TONNYSAP-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="TONNYSAP-Git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
   <img align="center" alt="TONNYSAP-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
