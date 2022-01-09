@@ -16,7 +16,7 @@
   <img align="center" alt="TONNYSAP-Angular" height="40" width="40" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
   <img align="center" alt="TONNYSAP-JAVA" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/>
   <img align="center" alt="TONNYSAP-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="TONNYSAP-Git" height="30" width="40" src="https://cdn-icons.flaticon.com/png/512/1240/premium/1240970.png?token=exp=1641759518~hmac=eda819dde65db5702a2677dafe549e9f">
+  <img align="center" alt="TONNYSAP-Git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
   <img align="center" alt="TONNYSAP-HTML" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
   <img align="center" alt="TONNYSAP-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
