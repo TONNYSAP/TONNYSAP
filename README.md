@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TONNYSAP or if you prefer Antonio Veras
-- 👀 I’m interested in web programming
+- 👋 Hi, I’m the @TONNYSAP or if you prefer Antonio Veras
+- 👀 I’m very interested in web programming
 - 🌱 I’m currently learning Java and Angular
 - 💞️ I’m looking to collaborate on easy app and accessible to deficient people and other interesting apps.
 - 📫 How to reach me:  sousaverassap@gmail.com   or   https://www.facebook.com/sousaverasap
